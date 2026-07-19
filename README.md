@@ -1,10 +1,10 @@
-# AI-and-Software-Engineering-FYPs
+# Undergraduate-Research-Portfolio
 
 Welcome to my curated portfolio of undergraduate **Final Year Projects (FYPs)** supervised at the **Department of Software Engineering, Mehran University of Engineering and Technology (MUET), Jamshoro, Pakistan.**
 
 As a supervisor, I work closely with students throughout the entire project lifecycle from identifying impactful research problems to designing system architectures, mentoring implementation, and supporting research dissemination. 
 
-These projects showcase undergraduate innovation across **Artificial Intelligence, Deep Learning, Computer Vision, Blockchain, Software Engineering, Data Analytics, and Full-Stack Web Development.** Several have resulted in research publications, conference presentations, competitive awards, and undergraduate research grants, demonstrating the impact of combining academic supervision with hands-on technical mentorship.
+These projects showcase undergraduate innovation across **Artificial Intelligence, Deep Learning, Computer Vision, Blockchain, Software Engineering, Data Analytics, Game Development, Smart City Applications, and Full-Stack Web Development.** Several have resulted in research publications, conference presentations, competitive awards, and undergraduate research grants, demonstrating the impact of combining academic supervision with hands-on technical mentorship.
 
 ## Portfolio Highlights
 
