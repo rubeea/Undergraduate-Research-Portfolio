@@ -1,7 +1,5 @@
 # AI-and-Software-Engineering-FYPs
-Curated portfolio of undergraduate Final Year Projects supervised by Dr. Rabeea Jaffari at MUET, showcasing AI, Software Engineering, Blockchain, Computer Vision, and Data Science projects.
-
-Welcome to my portfolio of selected undergraduate **Final Year Projects (FYPs)** supervised at the **Department of Software Engineering, Mehran University of Engineering and Technology (MUET), Jamshoro, Pakistan.**
+Welcome to my curated portfolio of undergraduate **Final Year Projects (FYPs)** supervised at the **Department of Software Engineering, Mehran University of Engineering and Technology (MUET), Jamshoro, Pakistan.**
 
 As a supervisor, I work closely with students throughout the entire project lifecycle—from identifying impactful research problems to designing system architectures, mentoring implementation, and supporting research dissemination. Several of these projects have led to **research paper publications, conference acceptances, FYP grants, and project competitions**, reflecting the collaborative efforts of the students and supervisor.
 
