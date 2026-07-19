@@ -1,10 +1,21 @@
 # AI-and-Software-Engineering-FYPs
+
 Welcome to my curated portfolio of undergraduate **Final Year Projects (FYPs)** supervised at the **Department of Software Engineering, Mehran University of Engineering and Technology (MUET), Jamshoro, Pakistan.**
 
-As a supervisor, I work closely with students throughout the entire project lifecycle—from identifying impactful research problems to designing system architectures, mentoring implementation, and supporting research dissemination. Several of these projects have led to **research paper publications, conference acceptances, FYP grants, and project competitions**, reflecting the collaborative efforts of the students and supervisor.
+As a supervisor, I work closely with students throughout the entire project lifecycle from identifying impactful research problems to designing system architectures, mentoring implementation, and supporting research dissemination. 
 
-This repository serves as a curated showcase of student innovation across **Artificial Intelligence, Deep Learning, Computer Vision, Blockchain, Software Engineering, Data Analytics, and Full-Stack Web Development.**
+These projects showcase undergraduate innovation across **Artificial Intelligence, Deep Learning, Computer Vision, Blockchain, Software Engineering, Data Analytics, and Full-Stack Web Development.** Several have resulted in research publications, conference presentations, competitive awards, and undergraduate research grants, demonstrating the impact of combining academic supervision with hands-on technical mentorship.
 
+## Portfolio Highlights
+
+| Metric | Value |
+|---------|------:|
+| Projects Supervised | 8 |
+| Research Areas | AI, CV, Blockchain, Software Engineering |
+| Research Papers | 1 |
+| FYP Grants | 1 |
+| Conference Presentations | 3 |
+| Project Awards | 3 |
 ---
 
 ## My Role as Supervisor
@@ -21,6 +32,57 @@ My supervision extends beyond academic oversight and includes:
 - Presentation coaching for project demonstrations and competitions
 
 ---
+# 2025
+## 🏎️ Raftaar – A Pakistani Car Racing Game
+
+**Domain:** Game Development • Unity • Digital Cultural Heritage
+
+A racing game developed to promote Pakistani representation in the global gaming industry by featuring locally inspired vehicles, environments, and terrains. The MVP showcases customized Pakistani cars and culturally relevant landscapes, highlighting indigenous design within an engaging gameplay experience.
+
+**Technologies**
+
+- Unity
+- Blender
+- C#
+
+🔒 **Repository:** Closed source
+---
+
+## 🩺 AI-Driven Skin Cancer Diagnosis System
+
+**Domain:** Artificial Intelligence • Deep Learning • Healthcare
+
+An AI-powered diagnostic system for automated skin cancer classification using dermoscopic images from the ISIC dataset. The project employs EfficientNet-based ensemble learning models to improve classification accuracy and support early detection of skin cancer.
+
+**Technologies**
+
+- Python
+- PyTorch
+- Deep Learning
+- Computer Vision
+- ISIC Dataset
+
+**Achievements**
+
+- 🏆 Winner – IEEE YESIST12 Regional Finals (Special Track), MAJU Karachi, 2025
+
+🔒 **Repository:** Closed source
+---
+
+## 📑 Research Grants Management System
+
+**Domain:** Software Engineering • Research Management • Full-Stack Development
+
+A web-based platform designed to streamline the preparation, submission, tracking, and management of institutional research grants. The system assists faculty members in organizing proposals, monitoring application progress, and maintaining research grant records through a centralized interface.
+
+**Technologies**
+
+- Full-Stack Web Development
+- Database Management
+- Software Engineering
+
+🔒 **Repository:** Closed source
+---
 
 # 2024
 
@@ -30,8 +92,7 @@ My supervision extends beyond academic oversight and includes:
 
 A deep learning-powered application for automated dental cavity detection from dental images, assisting with early diagnosis through intelligent image analysis.
 
-**Student Repository**
-- https://github.com/ahsanaliSWE/DentalScanpro
+**GitHub:** https://github.com/ahsanaliSWE/DentalScanpro
 
 ---
 
@@ -41,8 +102,7 @@ A deep learning-powered application for automated dental cavity detection from d
 
 An intelligent e-commerce platform integrating predictive analytics to provide insights into customer behavior, purchasing patterns, and sales forecasting.
 
-**Student Repository**
-- https://github.com/Kashaf-Abdullah/Ecommerce-Website-With-Predictive-Analysis
+**GitHub:** https://github.com/Kashaf-Abdullah/Ecommerce-Website-With-Predictive-Analysis
 
 ---
 
@@ -59,8 +119,7 @@ A web platform providing:
 
 The project aims to help citizens better manage daily activities affected by power outages.
 
-**Student Repository**
-- https://github.com/DanishAnodher/Powerplan_Pakistan
+**GitHub:** https://github.com/DanishAnodher/Powerplan_Pakistan
 
 ---
 
@@ -72,8 +131,7 @@ The project aims to help citizens better manage daily activities affected by pow
 
 A deep learning framework for automatic fetal anatomical plane prediction from ultrasound images to support prenatal screening and clinical decision-making.
 
-**Student Repository**
-- https://github.com/Munsif-Raza-T/final_year_project
+**GitHub:** https://github.com/Munsif-Raza-T/final_year_project
 
 ---
 
@@ -83,8 +141,7 @@ A deep learning framework for automatic fetal anatomical plane prediction from u
 
 A decentralized loan management platform utilizing blockchain technology and smart contracts to automate loan processing while improving transparency, security, and trust.
 
-**Student Repository**
-- https://github.com/Malhar-Soomro/fyp
+**GitHub:** https://github.com/Malhar-Soomro/fyp
 
 ---
 
