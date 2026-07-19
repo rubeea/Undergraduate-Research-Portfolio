@@ -46,6 +46,7 @@ A racing game developed to promote Pakistani representation in the global gaming
 - C#
 
 🔒 **Repository:** Closed source
+
 ---
 
 ## 🩺 AI-Driven Skin Cancer Diagnosis System
@@ -67,6 +68,7 @@ An AI-powered diagnostic system for automated skin cancer classification using d
 - 🏆 Winner – IEEE YESIST12 Regional Finals (Special Track), MAJU Karachi, 2025
 
 🔒 **Repository:** Closed source
+
 ---
 
 ## 📑 Research Grants Management System
@@ -82,6 +84,7 @@ A web-based platform designed to streamline the preparation, submission, trackin
 - Software Engineering
 
 🔒 **Repository:** Closed source
+
 ---
 
 # 2024
