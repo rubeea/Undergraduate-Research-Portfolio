@@ -162,6 +162,11 @@ An intelligent e-commerce platform integrating predictive analytics to provide i
 
 **GitHub:** https://github.com/Kashaf-Abdullah/Ecommerce-Website-With-Predictive-Analysis
 
+**Achievements**
+
+- 📄 Conference Abstract Published: **[Revolutionizing Brand Promotion Via Predictive Analytics & Forecasting](https://www.ijmcp.com/index.php/ijmcp/article/view/200)**, *International Journal of Multidisciplinary Conference Proceedings (IJMCP), Conference Proceedings of ICISCT'25*
+- 🎤 Presented at the **International Conference on Information Science & Communication Technology (ICISCT'25)**, jointly organized by **DHA Suffa University** and the **University of Karachi**, April 15–16, 2025.
+ 
 ---
 
 ## ⚡ PowerPlan Pakistan
@@ -191,6 +196,9 @@ A deep learning framework for automatic fetal anatomical plane prediction from u
 
 **GitHub:** https://github.com/Munsif-Raza-T/final_year_project
 
+**Achievements**
+
+- 🥇 First Prize – College Scientific Paper, International Biomedical Engineering Annual Contest (BENMAX), Indonesia (2022)
 ---
 
 ## ⛓ Blockchain-Based Loan Management with Smart Contracts
