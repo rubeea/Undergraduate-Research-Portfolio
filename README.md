@@ -32,6 +32,50 @@ My supervision extends beyond academic oversight and includes:
 - Presentation coaching for project demonstrations and competitions
 
 ---
+# 2026 (Ongoing Projects)
+
+*The following projects are currently being developed by the 2026 undergraduate Final Year Project cohort under my supervision.*
+
+---
+
+## 📝 QuizPen – AI-Powered Test Generation and Assessment Platform
+
+**Domain:** Artificial Intelligence • Educational Technology • Full-Stack Development
+
+QuizPen is an AI-powered assessment platform designed to automatically generate quizzes and conduct interactive assessments without limitations on participant capacity. Inspired by modern classroom engagement platforms, the system enables instructors to create AI-assisted question sets, host live quizzes, and evaluate learner performance through an intuitive and scalable web-based interface suitable for classrooms, workshops, and large educational events.
+
+**Technologies**
+
+- Generative AI
+- Large Language Models (LLMs)
+- Full-Stack Web Development
+- Educational Technology
+
+**Repository**
+
+*Under development.*
+
+---
+
+## 🌾 AgriVision – AI System for Crop Disease Detection
+
+**Domain:** Artificial Intelligence • Agriculture • Federated Learning
+
+AgriVision is an intelligent decision-support system that combines artificial intelligence with federated learning to enable automated crop disease detection. By preserving data privacy during collaborative model training, the platform aims to support precision agriculture and provide farmers with timely, data-driven insights for improving crop productivity and disease management.
+
+**Technologies**
+
+- Python
+- PyTorch
+- Federated Learning
+- Deep Learning
+- Computer Vision
+
+**Repository**
+
+*Under development.*
+
+---
 # 2025
 ## 🏎️ Raftaar – A Pakistani Car Racing Game
 
@@ -45,7 +89,13 @@ A racing game developed to promote Pakistani representation in the global gaming
 - Blender
 - C#
 
+**Achievements**
+
+- 🏆 Winner – Hult Prize, MUET Regional Round
+- 🚀 Incubated at NIC Hyderabad
+
 🔒 **Repository:** Closed source
+
 
 ---
 
@@ -94,6 +144,11 @@ A web-based platform designed to streamline the preparation, submission, trackin
 **Domain:** Computer Vision • Deep Learning • Healthcare
 
 A deep learning-powered application for automated dental cavity detection from dental images, assisting with early diagnosis through intelligent image analysis.
+
+**Achievements**
+
+- 💰 Awarded **Ignite NGIRI Final Year Project (FYP) Grant 2024** (NGIRI-2024-23544)
+- 📄 IEEE Conference Publication: **[AI-Powered Dental Caries Detection](https://ieeexplore.ieee.org/abstract/document/11004399)**, *2024 26th International Multi-Topic Conference (INMIC), Karachi, Pakistan*
 
 **GitHub:** https://github.com/ahsanaliSWE/DentalScanpro
 
