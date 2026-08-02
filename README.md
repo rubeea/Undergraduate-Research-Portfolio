@@ -71,9 +71,7 @@ AgriVision is an intelligent decision-support system that combines artificial in
 - Deep Learning
 - Computer Vision
 
-**Repository**
-
-*Under development.*
+**GitHub:** https://github.com/HannanRehman/HannanRehman4
 
 ---
 # 2025
