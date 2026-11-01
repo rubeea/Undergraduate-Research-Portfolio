@@ -51,11 +51,12 @@ QuizPen is an AI-powered assessment platform designed to automatically generate 
 - Full-Stack Web Development
 - Educational Technology
 
+**Project Website:** https://www.quizpen.app/login
+
 **Repository**
 
 *Under development.*
 
-**Project Website:** https://www.quizpen.app/login
 ---
 
 ## 🌾 AgriVision – AI System for Crop Disease Detection
