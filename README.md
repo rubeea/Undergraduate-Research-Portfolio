@@ -147,7 +147,7 @@ A deep learning-powered application for automated dental cavity detection from d
 
 **Achievements**
 
-- 💰 Awarded **Ignite NGIRI Final Year Project (FYP) Grant 2024** (NGIRI-2024-23544)
+- 💰 Awarded **Ignite NGIRI Final Year Project (FYP) Grant 2024 of 1 Lakh PKR** (NGIRI-2024-23544)
 - 📄 IEEE Conference Publication: **[AI-Powered Dental Caries Detection](https://ieeexplore.ieee.org/abstract/document/11004399)**, *2024 26th International Multi-Topic Conference (INMIC), Karachi, Pakistan*
 
 **GitHub:** https://github.com/ahsanaliSWE/DentalScanpro
@@ -198,7 +198,7 @@ A deep learning framework for automatic fetal anatomical plane prediction from u
 
 **Achievements**
 
-- 🥇 First Prize – College Scientific Paper, International Biomedical Engineering Annual Contest (BENMAX), Indonesia (2022)
+- 🥇 First Prize of 2079 RM – College Scientific Paper, International Biomedical Engineering Annual Contest (BENMAX), Indonesia (2022)
 ---
 
 ## ⛓ Blockchain-Based Loan Management with Smart Contracts
